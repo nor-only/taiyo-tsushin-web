@@ -90,9 +90,11 @@ document.addEventListener("DOMContentLoaded", () => {
     document.querySelectorAll('a').forEach(link => {
       link.addEventListener("click", (e) => {
         const rawHref = link.getAttribute("href");
-        // Skip anchors, tel, mailto, external, new-tab links
+        // Skip anchors, tel, mailto, external, cross-site, new-tab links
         if (!rawHref || rawHref.startsWith("#") || rawHref.startsWith("tel:") ||
             rawHref.startsWith("mailto:") || rawHref.startsWith("http") ||
+            rawHref.includes("future-tec-web") || rawHref.includes("ai-sanin-web") ||
+            rawHref.includes("taiyo-tsushin-web") ||
             link.getAttribute("target")) return;
         // Use the resolved absolute URL from the DOM
         const resolvedUrl = link.href;
