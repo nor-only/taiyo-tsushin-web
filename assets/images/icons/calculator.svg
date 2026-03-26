@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Calculator</title>
+    <g id="Calculator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M38,6 L38,42 L10,42 L10,6 L38,6 Z M36,8 L12,8 L12,40 L36,40 L36,8 Z M34,12 L34,22 L14,22 L14,12 L34,12 Z M32,14 L16,14 L16,20 L32,20 L32,14 Z M23,16 L23,18 L18,18 L18,16 L23,16 Z" id="Combined-Shape" fill="#007CFF" fill-rule="nonzero"></path>
+        <path d="M14,26 L18,26 L18,28 L14,28 L14,26 Z M14,30 L18,30 L18,32 L14,32 L14,30 Z M14,34 L18,34 L18,36 L14,36 L14,34 Z M20,26 L24,26 L24,28 L20,28 L20,26 Z M20,30 L24,30 L24,32 L20,32 L20,30 Z M20,34 L24,34 L24,36 L20,36 L20,34 Z M26,26 L30,26 L30,28 L26,28 L26,26 Z M26,30 L30,30 L30,32 L26,32 L26,30 Z M26,34 L30,34 L30,36 L26,36 L26,34 Z M32,26 L34,26 L34,36 L32,36 L32,26 Z" id="Combined-Shape" fill="#007CFF" opacity="0.300000012"></path>
+    </g>
+</svg>

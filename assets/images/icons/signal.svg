@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Signal" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 30 32" style="enable-background:new 0 0 30 32;" xml:space="preserve">
+<g>
+	<path d="M5,20H1c-0.552,0-1,0.448-1,1v10c0,0.552,0.448,1,1,1h4c0.552,0,1-0.448,1-1V21C6,20.448,5.552,20,5,20z M4,30H2v-8h2V30z"
+		/>
+	<path d="M13,14H9c-0.552,0-1,0.448-1,1v16c0,0.552,0.448,1,1,1h4c0.552,0,1-0.448,1-1V15C14,14.448,13.552,14,13,14z M12,30h-2V16
+		h2V30z"/>
+	<path d="M21,8h-4c-0.552,0-1,0.448-1,1v22c0,0.552,0.448,1,1,1h4c0.552,0,1-0.448,1-1V9C22,8.448,21.552,8,21,8z M20,30h-2V10h2V30
+		z"/>
+	<path d="M29,0h-4c-0.552,0-1,0.448-1,1v30c0,0.552,0.448,1,1,1h4c0.552,0,1-0.448,1-1V1C30,0.448,29.552,0,29,0z M28,30h-2V2h2V30z
+		"/>
+</g>
+</svg>
